@@ -1,0 +1,2 @@
+Hello, I am learning to code using Javascript
+It's very challenging but fun
